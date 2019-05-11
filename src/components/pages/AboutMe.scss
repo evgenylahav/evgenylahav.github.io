@@ -1,0 +1,49 @@
+.about-header-image {
+    width: 100%;
+    margin-top: -2em;
+    margin-bottom: 2em;
+    max-height: 500px;
+}
+  
+.about-profile-pic {
+    float: right;
+    margin: 0 50px 0 50px;
+    width: 20%;
+    height: auto;
+}
+
+.aboutme-grid{
+    grid-template-rows: 1fr 1fr;
+}
+
+.aboutme-grid h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    padding-top: 40px;
+    // text-align: center;
+    // width: 75%;
+}
+
+.aboutme-grid h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    width: 75%;
+}
+.aboutme hr {
+    border-top: 3px solid blue;
+    width: 50%;
+    margin: auto;
+}
+
+.aboutme-grid p{
+    // font-family: 'Indie Flower', cursive;
+    // font-size: 20px;
+    color: black;
+    // text-align: center;
+    // width: 75%;
+}
